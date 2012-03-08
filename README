@@ -1,12 +1,11 @@
 Design
-The program is designed to display the flag by drawing rectangular components over the frame. It inserts the image of Ashoka Chakra in the middle.
+The program is designed to display the Indian national flag by drawing rectangular components over the frame. It then inserts the image of Ashoka Chakra in the middle.
 
 Dependancies
 1.Chakra.jpg(Used for displaying the Ashoka Chakra in the middle of the flag)
 
 Usage
-The source files along with the dependancies have been sent. Compile the source code($javac IndianTricolour.java) and then run its 
-class($java IndianTricolour).
+Compile the source code($javac IndianTricolour.java) and then run its class($java IndianTricolour).
 
 
      
