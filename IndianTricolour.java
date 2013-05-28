@@ -1,8 +1,18 @@
+/*
+ * IndianTricolour.java
+ *
+ * Author: Shyam Shankar <syamsankar91@gmail.com>
+ * Licensed under GPL Version 3
+ *
+ * This class draws the Indian national Flag- Indian Tricolor
+ * Usage : java IndianTricolour
+ */
+
+
 import javax.swing.*;
 import java.awt.*;
 
-// @author: Syam Sankar
-// This class draws the Indian national Flag- Indian Tricolor
+
 public class IndianTricolour
 {
   public static void main(String[] args) 
