@@ -5,7 +5,7 @@ Dependancies
 1.Chakra.jpg(Used for displaying the Ashoka Chakra in the middle of the flag)
 
 Usage
-Compile the source code($javac IndianTricolour.java) and then run its class($java IndianTricolour).
+Compile the source code 'javac IndianTricolour.java' and then run its class 'java IndianTricolour' .
 
 
      
